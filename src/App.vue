@@ -113,7 +113,7 @@ export default {
 }
 
 .editable_class {
-  border-style: dashed !important;
+  border-style: solid !important;
   border-width: 1px;
   border-radius: 4px;
   border-color: rgb(34, 5, 199) !important;
